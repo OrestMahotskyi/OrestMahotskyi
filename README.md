@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Orest and I'm a passionate Java developer from Ukraine 🇺🇦</h2>
 
 <br/>
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" width="600">
 <br/>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
